@@ -1,13 +1,13 @@
 # Discord.py 建立機器人
 ## 前言
-這篇會帶幾個主題，建議用`ctrl+F`搜尋底下的標籤，這樣比較好找需要的內容。  
-其他廢話就不多說了，想了解背後完整的內容可以去找找網路上其他大佬的講解。
+早安，我是火柴。這是一個只教你手作的Discord.py機器人的地方，東西也是我自己上網摸跟看ChatGPT後東拼西湊出來的產物，有需要改進的地方還請多多指教了m(_ _)m
 
+這篇會帶幾個主題，建議用`ctrl+F`搜尋底下的標籤，這樣比較好找需要的內容。  
 - Discord Bot前置作業
 - VsCode前置作業
-- 啟動Discord Bot
----
-### Discord Bot前置作業
+- 啟動Discord Bot  
+
+## Discord Bot前置作業
 1. 首先打開Discord開發者頁面[點我](https://discord.com/developers/docs/intro)
 2. 找到左上角的`applications`後點進去
    
