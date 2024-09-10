@@ -17,6 +17,6 @@
    ![alt 文字](https://cdn.discordapp.com/attachments/996685902397063169/1283214102847819787/IMG_1262.png?ex=66e22dc3&is=66e0dc43&hm=b23208ff361890e836e11e7a0de3f5e3a09ee2d65d7c2cb6ac852a2e18baa9cf&)
 4. 幫它取個名
 
-   ![alt 文字](https://github.com/user-attachments/assets/575a4a25-32c4-4beb-8d8a-ebdba8d79820)  
+   ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283214103170650142/IMG_1264.png?ex=66e22dc3&is=66e0dc43&hm=8bd8fb9886a7ce6dc3135083c15510b4197ad90a62e7d39ad875ae5f08712443&)  
    然後Create它
 
