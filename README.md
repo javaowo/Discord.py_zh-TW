@@ -25,7 +25,7 @@
 
    ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283217338124079114/IMG_1265.png?ex=66e230c6&is=66e0df46&hm=43536c165addd7578815c928c40e01915c20bb4090a908e5ec729611a9bd41bc&)  
    - 找到螢幕中的`Bot`把它打勾起來
-   ！[alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283217338124079114/IMG_1265.png?ex=66e230c6&is=66e0df46&hm=43536c165addd7578815c928c40e01915c20bb4090a908e5ec729611a9bd41bc&)
+   ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283217338124079114/IMG_1265.png?ex=66e230c6&is=66e0df46&hm=43536c165addd7578815c928c40e01915c20bb4090a908e5ec729611a9bd41bc&)
    
 這樣你就完成第一步：機器人的建置了。不過此時的機器人還不能使用，請接著下文繼續...  
 
