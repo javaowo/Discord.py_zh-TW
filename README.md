@@ -9,9 +9,9 @@
 
 ## Discord Developer前置作業
 1. 首先打開Discord開發者頁面[點我](https://discord.com/developers/docs/intro)
-2. 找到左上角的`applications`後點進去
+2. 登入後找到左上角的`applications`後點進去
    
-   ![alt 文字](https://cdn.discordapp.com/attachments/996685902397063169/1282874246334255206/image.png?ex=66e0f13e&is=66df9fbe&hm=e666d566d87cb759df4e8d299494af8c4869cbc06ff11a46f27149c3268f4080&)
+   ![image](https://drive.google.com/file/d/1lFonsNQPwcamTmRVRyC9zvsfoKfxhbHV/view?usp=drivesdk)
 3. 找到右上角的`New Application`後點進去
    
    ![alt 文字](https://cdn.discordapp.com/attachments/996685902397063169/1283214102847819787/IMG_1262.png?ex=66e22dc3&is=66e0dc43&hm=b23208ff361890e836e11e7a0de3f5e3a09ee2d65d7c2cb6ac852a2e18baa9cf&)
