@@ -14,19 +14,19 @@
    ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1297.jpeg)
 3. 找到右上角的`New Application`後點進去
    
-   ![alt 文字](https://cdn.discordapp.com/attachments/996685902397063169/1283214102847819787/IMG_1262.png?ex=66e22dc3&is=66e0dc43&hm=b23208ff361890e836e11e7a0de3f5e3a09ee2d65d7c2cb6ac852a2e18baa9cf&)
+   ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1298.jpeg)
 4. 幫它取個名
 
-   ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283214103170650142/IMG_1264.png?ex=66e22dc3&is=66e0dc43&hm=8bd8fb9886a7ce6dc3135083c15510b4197ad90a62e7d39ad875ae5f08712443&)  
+   ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1299.jpeg)  
    然後Create它    
 
 5. 邀請機器人至伺服器  
    - 點擊左邊的`OAuth2`
 
-   ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283217338124079114/IMG_1265.png?ex=66e230c6&is=66e0df46&hm=43536c165addd7578815c928c40e01915c20bb4090a908e5ec729611a9bd41bc&)  
+   ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1300.jpeg)  
    - 找到`OAuth2 URL Generator`中的`Bot`把它打勾起來
 
-   ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283218516505399316/IMG_1266.png?ex=66e231df&is=66e0e05f&hm=f0dbfdad3c9f0b3243f74950e0cb87719eede9338e8e06a365980f564b938541&)
+   ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1302.jpeg)
    底下這邊會叫你選權限，我有三個建議：
      #### 1. 不要勾選
       若選擇不要勾選的話就不會有刪不掉的身份組，但需要手動給予機器人權限。
@@ -37,8 +37,11 @@
 
 這邊我先選擇賦予管理員權限，是最簡單的且不會有權限不足的問題，然後複製底下的邀請連結。  
 
-  ![alt 文字](https://media.discordapp.net/attachments/996685902397063169/1283399316362367037/image.png?ex=66e2da41&is=66e188c1&hm=4d86880be0ccb0fa1427dd384167ea1e54c21e9854b2603ed4adfc90e598561c&=&format=webp&quality=lossless&width=960&height=135)  
-  之後到瀏覽器貼上，就可以邀請至你想要讓機器人進去的伺服器了（邀請者需有該伺服器的管理權限）
+  ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1303.jpeg)  
+  之後到瀏覽器貼上，就可以邀請至你想要讓機器人進去的伺服器了（邀請者需有該伺服器的管理權限）  
+
+  ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1304.jpeg)
+
 
 這樣你就完成第一步：機器人的建置了。不過此時的機器人還不能使用，請接著下文繼續...  
 
