@@ -45,7 +45,7 @@
 這樣你就完成第一步：機器人的建置了。不過此時的機器人還不能使用，請接著下文繼續...  
 
 ## VsCode前置作業  
-1. 首先來到下載python的網頁[點我](https://www.python.org/downloads/)
+1. 首先來到下載VSCode的網站[點我](https://code.visualstudio.com/)
 
    ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1305.jpeg)
 2. 選擇**python3.11**
