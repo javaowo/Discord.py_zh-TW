@@ -36,7 +36,7 @@
       這個到後期比較會知道你的機器人需要什麼功能，初學者較不建議使用這個選擇。  
 這邊我先選擇賦予管理員權限，是最簡單的且不會有權限不足的問題，然後複製底下的邀請連結。  
 
-  ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1303.jpeg)  
+  ![image](https://imgur.com/uXn6LVh)  
   之後到瀏覽器貼上，就可以邀請至你想要讓機器人進去的伺服器了（邀請者需有該伺服器的管理權限）  
 
   ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1304.jpeg)
