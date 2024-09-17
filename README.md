@@ -47,13 +47,13 @@
 ## VsCode前置作業  
 1. 首先來到下載VSCode的網站[點我](https://code.visualstudio.com/)
 
-   ![image](https://github.com/javaowo/Discord.py/blob/main/IMG_1305.jpeg)
+   ![image](https://github.com/javaowo/Discord.py/blob/main/VScode_D.png)
 2. 選擇**python3.11**
    > 3.12使用的程式碼會不同，可能會有未知bug（？）
 
 ## 啟動Discord Bot
 ```python
 #調用Discord函式庫
-improt discord
+import discord
 ```
 
