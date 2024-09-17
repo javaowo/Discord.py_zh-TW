@@ -77,7 +77,7 @@ Btw，東西是自己上網摸跟看ChatGPT後東拼西湊出來的產物，有�
 4. 往下滑，找到`Privileged Gateway Intents`，並打勾下面的三個選項（圖片中沒有勾選）
      
    ![image](https://github.com/javaowo/Discord.py/blob/main/image/PGI.png)
-5. 接下來新增一個檔案，語言選擇Python
+5. 接下來新增一個檔案，語言選擇Python  
    可複製底下程式碼，並替換「YOUR_BOT_TOKEN」這個文字成剛剛複製的Token。  
    上面的Discord.py檔案有完整的程式碼解釋
 ```python
