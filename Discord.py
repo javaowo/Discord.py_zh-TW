@@ -21,4 +21,4 @@ async def on_ready():
     print(f'My ID is {client.user.id}')
 
 # 起動機器人，記得先把「YOUR_BOT_TOKEN」替換成你的機器人的Token 
-client.run("MTI4NTA2NzIzNDE3MTAyNzQ5Ng.GxJybq.UdlNLaAwxUObr86-mW4huKG7kXa2t23SIfIn6s")
+client.run("YOUR_BOT_TOKEN")
