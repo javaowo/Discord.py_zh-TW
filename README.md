@@ -59,13 +59,13 @@ Btw，東西是自己上網摸跟看ChatGPT後東拼西湊出來的產物，有�
    pip --version python
    ```
    Enter後你會在下面一行看到python所處的位置和版本，如果最後面括號寫的是`python 3.11`那你就成功了
+
+   ![image](https://github.com/javaowo/Discord.py/blob/main/image/Version.png)
 4. 下載Discord.py  
    在終端機輸入以下程式碼，即可完成下載
    ```python
    pip install discord.py
    ```
-
-   ![image](https://github.com/javaowo/Discord.py/blob/main/image/Version.png)
 
 ## 啟動Discord Bot
 我們還有一些步驟還沒完成，先讓我們回到開發者網站...[點我](https://discord.com/developers/docs/intro)
